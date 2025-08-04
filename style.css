@@ -1,1 +1,8 @@
-p {background-color: black; font-size: medium; font-style: initial; color: chocolate;}
+p {background-color: black; font-size: medium; 
+  font-style: initial; color: chocolate;
+  height: 50px; width: 50px;
+
+
+
+
+}
